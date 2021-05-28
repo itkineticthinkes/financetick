@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#625D5D</color>
+    <color name="colorPrimaryDark">#625D5D</color>
+    <color name="colorAccent">#303F9F</color>
+
+
+    <!--
+        <color name="Black">#000000</color>
+    -->
+    <color name="cream">#F1F1F1</color>
+    <color name="black">#000000</color>
+    <color name="Carbon_Gray">#625D5D</color>
+    <color name="Gray">#736F6E</color>
+    <color name="Gray_Cloud">#B6B6B4</color>
+    <color name="Platinum">#E5E4E2</color>
+    <color name="Platinumlight">#90e5e4e2</color>
+    <color name="Water">#EBF4FA</color>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="Yellow_Green">#52D017</color>
+    <color name="Algae_Green">#64E986</color>
+    <color name="Cantaloupe">#FFA62F</color>
+    <color name="Bean_Red">#F75D59</color>
+    <color name="Red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="SponserTextcolor">#00214e</color>
+
+    <color name="translucent_black_bg">#65000000</color>
+    <color name="translucent_white_bg">#f1ffffff</color>
+    <!--AShish design Codes-->
+    <color name="Button_code">#4EBF24</color>
+    <color name="greytext">#262626</color>
+    <color name="greybacl">#8c8c8c</color>
+    <color name="gretsortcolor">#9a9a9a</color>
+    <color name="grey47">#474747</color>
+
+    <!-- Stacked Horizontal Progressbar Colors -->
+
+    <color name="picker_background">#3F51B5</color>
+    <color name="picker_button_background_selected">#3F51B5</color>
+    <color name="picker_button_background">@android:color/white</color>
+    <color name="picker_button_background_innactive">#BDBDBD</color>
+    <color name="picker_default_text_color">#999</color>
+    <color name="picker_default_selected_text_color">@android:color/black</color>
+    <color name="picker_default_selector_color">#646464</color>
+
+
+    <bool name="default_circle_indicator_centered">true</bool>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <color name="cb_dark_grey">#464646</color>
+
+
+    <color name="lightgrey">#f1f1f1</color>
+    <color name="gray">#868686</color>
+    <color name="brown">#ba7013</color>
+    <color name="productpagetitlecolor">#434343</color>
+
+
+    <color name="persian_green_primary">#0DAC8F</color>
+    <color name="persian_green_dark">#0A927A</color>
+    <color name="persian_green_accent">#0A927A</color>
+    <color name="pink_primary">#EB1E63</color>
+    <color name="pink_dark">#C0175C</color>
+    <color name="pink_accent">#C0175C</color>
+    <color name="royal_blue_primary">#4C63E2</color>
+    <color name="royal_blue_dark">#4055BF</color>
+    <color name="royal_blue_accent">#4055BF</color>
+    <color name="purple_primary">#9C28B1</color>
+    <color name="purple_dark">#7A1FA2</color>
+    <color name="purple_accent">#7A1FA2</color>
+    <color name="orange_accent">#F3A62E</color>
+    <color name="indigo">#3E50AE</color>
+    <color name="pink">#FF427C</color>
+    <color name="grey">#C2C2C2</color>
+    <color name="cardBackgroundColor">#FF0000</color>
+    <color name="app_button_color">#2CA6CF</color>
+    <color name="light_white">#fcfcfc</color>
+</resources>
